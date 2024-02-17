@@ -9,7 +9,7 @@ body {
   height: 200px;
   width: 100vw;
   position: absolute;
-  border-bottom: 3px solid blue;
+  border-bottom: 3px pink;
   top: 0;
   left: 0;
 }
